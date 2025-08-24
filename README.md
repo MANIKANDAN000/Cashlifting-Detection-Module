@@ -89,7 +89,7 @@ train: ../data/train/images
 val: ../data/val/images
 
 nc: 2
-names: ['hand', 'cash']
+names: ['hand', 'cash', 'pocket']
 Start Training: Use the YOLOv8 CLI to start the training process.
 code
 Bash
